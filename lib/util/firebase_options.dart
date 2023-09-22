@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyArN_LRZA4wszYddEAulQDoXQ9vy8kiuwM',
-    appId: '1:809095171167:web:f85a31ebd1a0f805441fea',
-    messagingSenderId: '809095171167',
-    projectId: 'furniture-shopping-d04f2',
-    authDomain: 'furniture-shopping-d04f2.firebaseapp.com',
-    storageBucket: 'furniture-shopping-d04f2.appspot.com',
-  );
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    authDomain: 'authDomain',
+    storageBucket: 'storageBucket',
 
+  );
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCBgKwnNvi5Wc8SwD607Zxut7lFiAQs-js',
-    appId: '1:809095171167:android:c219a4e994ff9e8e441fea',
-    messagingSenderId: '809095171167',
-    projectId: 'furniture-shopping-d04f2',
-    storageBucket: 'furniture-shopping-d04f2.appspot.com',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
   );
 }
