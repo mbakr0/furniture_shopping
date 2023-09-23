@@ -1,16 +1,21 @@
 # furniture_shopping
 
-A new Flutter project.
+E-Commerce Flutter android App.
 
-## Getting Started
+based on figma desgin
+https://www.freefigmatemplates.com/gallery/classy-furniture-app
 
-This project is a starting point for a Flutter application.
+## git clone
 
-A few resources to get you started if this is your first Flutter project:
+``` cmd
+$ git clone https://github.com/mbakr0/furniture_shopping.git
+```
+#####  Open firebase_options.dart 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2023-09-23 113558](https://github.com/mbakr0/furniture_shopping/assets/24358810/c0b74114-101f-47df-9357-a39efd560dad)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+####   Add you firebase credentials
+![carbon](https://github.com/mbakr0/furniture_shopping/assets/24358810/b03bef4a-0f9f-4fc6-800a-51389bcb90d6)
+
+## Video preview
+https://drive.google.com/file/d/13F-emeKyCknaNMRfydgM3-mCCjr5AX_X/view
