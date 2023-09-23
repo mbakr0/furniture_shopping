@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
 
 
           stream: FirebaseAuth.instance.userChanges(),
-          builder: (context, snapshot) {
+          builder: (context, snapshot) {  
             if (snapshot.hasData) {
               _setNameAndEmail(context,snapshot.data!);
               return const Home();
