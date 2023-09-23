@@ -19,23 +19,24 @@ $ git clone https://github.com/mbakr0/furniture_shopping.git
 
 
 ## Dependencies
-  google_fonts: ^5.1.0
-  lottie: ^2.6.0
-  font_awesome_flutter: ^10.5.0
-  firebase_core: ^2.15.1
-  firebase_auth: ^4.9.0
-  retrofit: ^4.0.1
-  dio: ^5.3.2
-  json_annotation: ^4.8.1
-  floor: ^1.4.2
-  sqflite: ^2.3.0
-  intl: ^0.18.1
-  provider: ^6.0.5
-  flutter_local_notifications: ^15.1.1
-  flutter_rating_bar: ^4.0.1
-  page_transition: ^2.1.0
-  model_viewer_plus: ^1.7.0
-
+``` dart
+ - google_fonts: ^5.1.0
+ - lottie: ^2.6.0
+ - font_awesome_flutter: ^10.5.0
+ - firebase_core: ^2.15.1
+ - firebase_auth: ^4.9.0
+ - retrofit: ^4.0.1
+ - dio: ^5.3.2
+ - json_annotation: ^4.8.1
+ - floor: ^1.4.2
+ - sqflite: ^2.3.0
+ - intl: ^0.18.1
+ - provider: ^6.0.5
+ - flutter_local_notifications: ^15.1.1
+ - flutter_rating_bar: ^4.0.1
+ - page_transition: ^2.1.0
+ -  model_viewer_plus: ^1.7.0
+```
 
 ## Video preview
 https://drive.google.com/file/d/13F-emeKyCknaNMRfydgM3-mCCjr5AX_X/view
