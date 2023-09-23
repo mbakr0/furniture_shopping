@@ -35,7 +35,7 @@ $ git clone https://github.com/mbakr0/furniture_shopping.git
  - flutter_local_notifications: ^15.1.1
  - flutter_rating_bar: ^4.0.1
  - page_transition: ^2.1.0
- -  model_viewer_plus: ^1.7.0
+ - model_viewer_plus: ^1.7.0
 ```
 
 ## Video preview
