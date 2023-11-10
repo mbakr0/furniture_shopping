@@ -39,4 +39,4 @@ $ git clone https://github.com/mbakr0/furniture_shopping.git
 ```
 
 ## Video preview
-https://drive.google.com/file/d/13F-emeKyCknaNMRfydgM3-mCCjr5AX_X/view
+[youtube](https://www.youtube.com/watch?v=PRk5O8axbxQ)
